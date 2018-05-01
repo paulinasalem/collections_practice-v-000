@@ -25,5 +25,5 @@ end
 end
 
 def swap_elements(array)
-puts array[1,3,2]
+array[2]==array[3]
 end
