@@ -35,4 +35,5 @@ def kesha_maker(array)
   array.each do |kesha|
     kesha[3]='$'
 end
+kesha
 end
