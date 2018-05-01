@@ -25,6 +25,5 @@ end
 end
 
 def swap_elements(array)
-new_array= array[1,3,2]
-new_array
+puts array[1,3,2]
 end
